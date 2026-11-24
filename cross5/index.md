@@ -7,7 +7,7 @@ title: Cross 5
 
 Line up five. Outplay anyone.
 
-Cross 5 is a clean, fast game of five in a row. Play the computer, a friend on the same phone, or a friend nearby on the same Wi-Fi, a hotspot, or over Bluetooth. There are no accounts, no ads and no tracking.
+Cross 5 is a clean, fast game of five in a row. Play the computer, a friend on the same phone, or a friend nearby on the same Wi-Fi, a hotspot, or over Bluetooth. There are no accounts. The app may show ads only at natural breaks after a completed game.
 
 - [Privacy policy](privacy/)
 - [Get Cross 5 on Google Play](https://play.google.com/store/apps/details?id=com.yaanala.cross5)

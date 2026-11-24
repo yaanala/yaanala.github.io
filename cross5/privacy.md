@@ -5,13 +5,26 @@ title: Cross 5 Privacy Policy
 
 # Cross 5 Privacy Policy
 
-**Last updated:** 1 November 2026
+**Last updated:** 24 November 2026
 **Developer:** Yaanala
 **Contact:** yesmynameisyogesh@gmail.com
 
 ## In short
 
-Cross 5 has no accounts, no ads, no analytics and no crash reporting. We do not run a server that receives your data, and the app does not send anything about you to us. Everything the app remembers stays on your phone.
+Cross 5 has no accounts. Most game information stays on your phone. The app may show advertising from Google at natural breaks after a completed game. We do not run a server that receives your game information or use advertising data to create an account or profile about you.
+
+## Advertising
+
+Cross 5 uses the Google Mobile Ads SDK to show interstitial ads. Ads are not shown while you are playing a game. The SDK may collect and share the following information to provide, measure and protect advertising:
+
+- Approximate location derived from your device's IP address.
+- App interactions, such as app launches, taps and ad views.
+- Diagnostic information about the app and advertising SDK, such as launch time or performance issues.
+- Device and advertising identifiers, including the Android advertising ID and app set ID.
+
+Google uses this information for advertising, analytics, and fraud prevention, security and compliance. It is encrypted while sent in transit. Google may use the information to provide personalised or non-personalised ads, depending on your region, consent choices and Google settings. Google handles this information under [Google's Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
+
+Where required, Cross 5 shows Google's consent choices before requesting ads. You can change eligible advertising privacy choices through the app's privacy options and your Android or Google advertising settings.
 
 ## What the app stores on your phone
 
@@ -40,7 +53,7 @@ The camera is used only when you tap "Scan their QR code" to join a friend's gam
 | Location (Android 12 and older only) | Android requires it to scan for nearby Bluetooth devices. Cross 5 never reads your location. |
 | Wi-Fi and network state | To find your Wi-Fi address and connect to a friend on the same network. |
 | Local network (Android 17 and newer) | To reach a friend's phone on the same Wi-Fi. |
-| Internet | To connect to a friend's phone over your local network. Cross 5 does not contact any server of ours. |
+| Internet | To connect to a friend's phone over your local network and to request ads from Google. Cross 5 does not contact any server of ours. |
 
 ## Children
 
@@ -48,7 +61,7 @@ Cross 5 does not ask for or collect personal information from anyone, including 
 
 ## Changes to this policy
 
-If this policy changes, the new version will be posted on this page with a new date. If the app ever adds accounts, ads, analytics or online play, this policy will be updated before that release.
+If this policy changes, the new version will be posted on this page with a new date. If the app adds accounts, new advertising partners, analytics or online play, this policy will be updated before that release.
 
 ## Contact
 
